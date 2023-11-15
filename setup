@@ -20,7 +20,7 @@ if [[ $option == *'N'* ]]; then
 clear
 exit
 fi
-if [[ $option == *'n'* ]]; then
+if [[ $option == *'y'* ]]; then
 clear
 exit
 fi
